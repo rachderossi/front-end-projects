@@ -71,4 +71,4 @@ The designs were created to the following widths:
 
 ### Continued development
 
-Learn more about responsive web design,as you can see on my code I only made layout for screen size width 375px or 1440px.  I would like to make this work for any type of device size.
+Learn more about responsive web design, as you can see on my code I only made layout for screen size width 375px or 1440px. I would like to make this work for any type of device size.
