@@ -29,7 +29,7 @@ The designs were created to the following widths:
 
 ### Screenshot
 
-![Alt text](./screenshot1.jpg)
+![Alt text](https://github.com/rachderossi/front-end-mentor/blob/main/screenshot1.jpg)
 
 ### Links
 
