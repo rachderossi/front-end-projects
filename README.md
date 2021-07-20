@@ -32,7 +32,7 @@ The designs were created to the following widths:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://rachderossi.github.io/stats-preview-card/)
 
 ## My process
 
