@@ -29,7 +29,7 @@ The designs were created to the following widths:
 
 ### Screenshot
 
-<img width = "1900" height= "1000" src= "https://github.com/rachderossi/front-end-mentor/blob/main/stats-preview-card/screenshot1.png">
+<img  src= "https://github.com/rachderossi/front-end-mentor/blob/main/stats-preview-card/screenshot1.png">
 
 ### Links
 
