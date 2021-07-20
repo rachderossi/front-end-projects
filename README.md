@@ -12,7 +12,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-- [Author](#author)
 
 ## Overview
 
@@ -34,7 +33,6 @@ The designs were created to the following widths:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
@@ -47,26 +45,30 @@ The designs were created to the following widths:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
 ```html
-<h1>Some HTML code I'm proud of</h1>
-```
+<section class="container info">
+        <div class="item">
+          <ul>
+            <li>10k+</li>
+            <li class="heading">Companies</li>
+          </ul>
+        </div>
+</section>
+  ```
 
 ```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-```js
-const proudOfThisFunc = () => {
-  console.log("🎉");
-};
+.header-intro img {
+    flex: 1 1 160px;
+    float: right;
+    margin: 0 0px;
+    height: 400px;
+    width: 450px;
+    filter: grayscale(100%) brightness(40%) sepia(300%) hue-rotate(240deg)
+      saturate(400%) contrast(0.9) opacity(500);
+    border-radius: 5px;
+  }
 ```
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Learn more about responsive web design,as you can see on my code I only made layout for screen size width 375px or 1440px.  I would like to make this work for any type of device size.
