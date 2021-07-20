@@ -30,7 +30,7 @@ The designs were created to the following widths:
 ### Screenshot
 
 <p align= "center>
-           <img width = "470" height= "300" src= https://github.com/[rachderossi]/[front-end-mentor]/blob/[main]/screenshot1.jpg?raw=true">
+           <img width = "470" height= "300" src= https://github.com/[rachderossi]/[front-end-mentor]/blob/[main]/screenshot1.png">
 </p>
 ### Links
 
