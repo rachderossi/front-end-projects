@@ -1,0 +1,223 @@
+/* Desktop */
+@media only screen and (min-width: 900px) and (max-width: 1440px) {
+  body {
+    margin: 0px;
+    padding: 100px 90px 100px 90px;
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(233, 47%, 7%);
+    font-size: 15px;
+    font-family: "Inter", Arial, Helvetica, sans-serif;
+  }
+
+  img {
+    display: block;
+    margin: auto;
+    max-width: 50%;
+  }
+
+  ul {
+    list-style: none;
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .header {
+    margin: auto;
+    height: 400px;
+    width: 950px;
+    background-color: hsl(244, 38%, 16%);
+    border-radius: 5px;
+  }
+
+  .header-intro img {
+    flex: 1 1 160px;
+    float: right;
+    margin: 0 0px;
+    height: 400px;
+    width: 450px;
+    filter: grayscale(100%) brightness(40%) sepia(300%) hue-rotate(240deg)
+      saturate(400%) contrast(0.9) opacity(500);
+    border-radius: 5px;
+  }
+
+  .header-intro h1 {
+    padding-top: 60px;
+    padding-left: 50px;
+    color: hsl(0, 0%, 100%);
+    font-size: 35px;
+    font-family: "Inter";
+  }
+
+  .header-intro p {
+    padding-top: 40px;
+    padding-left: 50px;
+    line-height: 25px;
+    color: hsla(0, 0%, 100%, 0.75);
+    font-family: "Inter";
+  }
+
+  .container {
+    display: flex;
+    max-width: 400px;
+    padding-left: 0px;
+  }
+
+  .item {
+    flex: 1;
+    margin: 0px;
+    font-size: 10px;
+    text-align: left;
+  }
+
+  .info {
+    flex-direction: row;
+  }
+
+  .info ul {
+    padding-top: 60px;
+    padding-left: 50px;
+  }
+
+  .info li {
+    color: hsl(0, 0%, 100%);
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .item .heading {
+    padding-top: 5px;
+    color: hsla(0, 0%, 100%, 0.6);
+    font-size: 10px;
+    font-family: "Inter";
+    text-transform: uppercase;
+  }
+
+  .attribution {
+    padding-top: 20px;
+    padding-left: 10px;
+    line-height: 30px;
+    text-align: center;
+  }
+
+  .attribution a {
+    color: hsla(0, 0%, 100%, 0.75);
+    font-family: "Inter";
+  }
+}
+
+/* Smartphone*/
+@media only screen and (min-width: 375px) and (max-width: 667px) {
+  body {
+    margin: 0px;
+    padding: 90px 0px 150px 0px;
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(233, 47%, 7%);
+    font-size: 15px;
+    font-family: "Inter", Arial, Helvetica, sans-serif;
+    text-align: center;
+  }
+
+  img {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+  }
+
+  ul {
+    list-style: none;
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .header {
+    margin: auto;
+    height: 880px;
+    width: 375px;
+    background-color: hsl(244, 38%, 16%);
+    border-radius: 5px;
+  }
+
+  .header-intro img {
+    flex: 1 1 160px;
+    float: center;
+    margin: 0px 0px;
+    height: 290px;
+    width: 400px;
+    filter: grayscale(100%) brightness(40%) sepia(300%) hue-rotate(240deg)
+      saturate(400%) contrast(0.9) opacity(500);
+    border-radius: 5px;
+  }
+
+  .header-intro h1 {
+    padding-top: 60px;
+    padding-left: 0px;
+    color: hsl(0, 0%, 100%);
+    font-size: 30px;
+    font-family: "Inter";
+    text-align: center;
+  }
+
+  .header-intro p {
+    padding-top: 30px;
+    padding-left: 10px;
+    color: hsla(0, 0%, 100%, 0.75);
+    font-family: "Inter";
+    text-align: center;
+  }
+
+  .container {
+    display: flex;
+    max-width: 400px;
+    padding-left: 0px;
+  }
+
+  .item {
+    flex: 1;
+    margin: 0px;
+    font-size: 10px;
+    text-align: center;
+  }
+
+  .info {
+    flex-direction: column;
+  }
+
+  .info ul {
+    padding-top: 60px;
+    padding-left: 0px;
+  }
+
+  .info li {
+    color: hsl(0, 0%, 100%);
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+  .item .heading {
+    padding-top: 5px;
+    color: hsla(0, 0%, 100%, 0.6);
+    font-size: 10px;
+    font-family: "Inter";
+    text-transform: uppercase;
+  }
+
+  .attribution {
+    padding-top: 20px;
+    padding-left: 10px;
+    line-height: 30px;
+    text-align: center;
+  }
+
+  .attribution a {
+    color: hsla(0, 0%, 100%, 0.75);
+    font-family: "Inter";
+  }
+}
