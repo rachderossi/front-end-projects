@@ -29,9 +29,8 @@ The designs were created to the following widths:
 
 ### Screenshot
 
-<p align= "center>
-           <img width = "470" height= "300" src= https://github.com/[rachderossi]/[front-end-mentor]/blob/[main]/screenshot1.png">
-</p>
+<img width = "470" height= "300" src= https://github.com/[rachderossi]/[front-end-mentor]/blob/[main]/screenshot1.png">
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
