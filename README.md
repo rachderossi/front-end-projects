@@ -26,9 +26,8 @@ The designs were created to the following widths:
 - Mobile: 375px
 - Desktop: 1440px
 
-### Screenshot
+### Screenshot - Desktop preview
 
-Desktop preview
 <img  src= "https://github.com/rachderossi/front-end-mentor/blob/main/stats-preview-card/screenshot1.png">
 
 ### Links
