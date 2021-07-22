@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot - Desktop preview
 
-<img  src= "https://github.com/rachderossi/front-end-mentor/blob/main/stats-preview-card/screenshot.png">
+<img  src= "https://github.com/rachderossi/front-end-mentor/blob/main/stats-preview-card/Screenshot.png">
 
 ### Links
 
