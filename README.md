@@ -151,11 +151,11 @@ Users should be able to:
 
 ### Screenshot - Desktop preview
 
-<img  src= "https://github.com/rachderossi/front-end-mentor/blob/main/four-card-feature-section/Screenshot1.png">
+<img  src= "https://github.com/rachderossi/front-end-mentor/blob/main/4-card-feature-section/Screenshot1.png">
 
 ### Links
 
-- Solution URL: [4-card-feature-section](https://rachderossi.github.io/four-card-feature-section/)
+- Solution URL: [4 card feature section](https://rachderossi.github.io/four-card-feature-section/)
 
 ## My process
 
