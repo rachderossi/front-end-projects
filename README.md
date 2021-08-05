@@ -155,7 +155,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [4 card feature section](https://rachderossi.github.io/four-card-feature-section/)
+- Solution URL: [4 card feature section](https://rachderossi.github.io/4-card-feature-section/)
 
 ## My process
 
