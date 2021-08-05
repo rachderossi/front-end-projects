@@ -151,7 +151,7 @@ Users should be able to:
 
 ### Screenshot - Desktop preview
 
-<img  src= "https://github.com/rachderossi/front-end-mentor/blob/main/4-card-feature-section/Screenshot1.png">
+<img  src= "https://github.com/rachderossi/front-end-mentor/blob/main/4-card-feature-section/Screenshot_1.png">
 
 ### Links
 
