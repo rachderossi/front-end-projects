@@ -10,7 +10,6 @@ a {
 }
 
 body {
-  margin: 50px 100px 50px 100px;
   font-family: "Big Shoulders Display", Arial, Helvetica, sans-serif;
   font-size: 15px;
   background: hsl(0, 0%, 95%);
@@ -32,11 +31,12 @@ img {
 .container {
   display: flex;
   flex-wrap: wrap;
-  padding: 160px;
+  padding: 0px 0px;
+  margin: 260px;
 }
 
 .container-item {
-  flex: 1 1 260px; /* 1 260px ajusta em outros navegadores */
+  flex: 1 1 260px;
   padding: 50px 50px 50px 50px;
   margin: 0px;
 }
@@ -112,76 +112,39 @@ img {
   border-color: hsl(0, 0%, 95%);
 }
 
-@media (max-width: 1299px) {
+@media screen and (min-width: 1040px) and (max-width: 1316px) {
   .sedans {
-    background-color: hsl(31, 77%, 52%);
-    border-top-left-radius: 10px;
-    border-top-right-radius: 0px;
     border-bottom-left-radius: 0px;
   }
 
   .suvs {
-    background-color: hsl(184, 100%, 22%);
     border-top-right-radius: 10px;
   }
 
   .luxury {
-    background-color: hsl(179, 100%, 13%);
-    border-top-right-radius: 0px;
-    border-bottom-left-radius: 0px;
-    border-bottom-right-radius: 10px;
-  }
-}
-
-@media (max-width: 1039px) {
-  .sedans {
-    background-color: hsl(31, 77%, 52%);
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-    border-bottom-left-radius: 0px;
-  }
-
-  .suvs {
-    background-color: hsl(184, 100%, 22%);
-    border-top-right-radius: 0px;
-  }
-
-  .luxury {
-    background-color: hsl(179, 100%, 13%);
     border-top-right-radius: 0px;
     border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;
   }
 }
 
-@media (max-width: 800px) {
-  body {
-    margin: 60px 20px 60px 20px;
-  }
-
+@media (max-width: 1056px) {
   .container {
-    display: block;
-    padding: 60px 0px 60px 0px;
-  }
-
-  .container-item p {
-    margin: 30px 0 30px 0;
+    flex-direction: column;
+    padding: 90px 0px;
+    margin: 15px;
   }
 
   .sedans {
-    background-color: hsl(31, 77%, 52%);
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     border-bottom-left-radius: 0px;
   }
 
   .suvs {
-    background-color: hsl(184, 100%, 22%);
     border-top-right-radius: 0px;
   }
 
   .luxury {
-    background-color: hsl(179, 100%, 13%);
     border-top-right-radius: 0px;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
