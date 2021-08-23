@@ -226,7 +226,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [4 card feature section](https://rachderossi.github.io/single-price-grid/)
+- Solution URL: [Single price grid](https://rachderossi.github.io/single-price-grid/)
 
 ## My process
 
