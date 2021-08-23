@@ -267,7 +267,7 @@ Users should be able to:
 ```
 # Bikcraft
 
-My first big project using HTML, CSS and basic JavaScript. I bulit the whole wireframe using Adobe XD, but the project came from my front-end online classes.
+My first big project using HTML, CSS and basic JavaScript. I built the entire wireframe using Adobe XD, but the project came from my front-end classes.
 
 ### Screenshot - Desktop preview
 
