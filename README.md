@@ -265,3 +265,14 @@ Users should be able to:
   order: -3;
 }
 ```
+# Bikcraft
+
+My first big project using HTML, CSS and basic JavaScript. I bulit the whole wireframe using Adobe XD, but the project came from my front-end online classes.
+
+### Screenshot - Desktop preview
+
+<img  src= "https://github.com/rachderossi/bikcraft/blob/main/Screenshot_1.png">
+
+### Links
+
+- Solution URL: [Bikcraft](https://rachderossi.github.io/bikcraft/)
