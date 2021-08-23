@@ -287,4 +287,4 @@ My second project using HTML and CSS Flexbox . I built the entire wireframe usin
 
 ### Links
 
-- Solution URL: [Bikcraft](https://rachderossi.github.io/flexblog/)
+- Solution URL: [FlexBlog](https://rachderossi.github.io/flexblog/)
