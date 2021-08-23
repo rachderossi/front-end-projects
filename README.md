@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot - Desktop preview
 
-<img  src= "https://github.com/rachderossi/front-end-mentor/blob/main/stats-preview-card/Screenshot.png">
+<img  src= "https://github.com/rachderossi/front-end-projects/blob/main/stats-preview-card/Screenshot.png">
 
 ### Links
 
@@ -85,7 +85,7 @@ Users should be able to:
 
 ### Screenshot - Desktop preview
 
-<img  src= "https://github.com/rachderossi/front-end-mentor/blob/main/3-column-preview-card/Screenshot_1.png">
+<img  src= "https://github.com/rachderossi/front-end-projects/blob/main/3-column-preview-card/Screenshot_1.png">
 
 ### Links
 
@@ -151,7 +151,7 @@ Users should be able to:
 
 ### Screenshot - Desktop preview
 
-<img  src= "https://github.com/rachderossi/front-end-mentor/blob/main/4-card-feature-section/Screenshot_1.png">
+<img  src= "https://github.com/rachderossi/front-end-projects/blob/main/4-card-feature-section/Screenshot_1.png">
 
 ### Links
 
@@ -222,7 +222,7 @@ Users should be able to:
 
 ### Screenshot - Desktop preview
 
-<img  src= "https://github.com/rachderossi/front-end-mentor/blob/main/single-price-grid/Screenshot_1.png">
+<img  src= "https://github.com/rachderossi/front-end-projects/blob/main/single-price-grid/Screenshot_1.png">
 
 ### Links
 
@@ -271,7 +271,7 @@ My first big project using HTML, CSS and basic JavaScript. I bulit the whole wir
 
 ### Screenshot - Desktop preview
 
-<img  src= "https://github.com/rachderossi/bikcraft/blob/main/Screenshot_1.png">
+<img  src= "https://github.com/rachderossi/front-end-projects/blob/main/bikcraft/Screenshot_1.png">
 
 ### Links
 
