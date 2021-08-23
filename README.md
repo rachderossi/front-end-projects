@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [stats preview card](https://rachderossi.github.io/stats-preview-card/)
+- Solution URL: [Stats preview card](https://rachderossi.github.io/stats-preview-card/)
 
 ## My process
 
