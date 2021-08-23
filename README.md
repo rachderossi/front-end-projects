@@ -299,4 +299,4 @@ My third project using HTML and CSS Grid Layout.
 
 ### Links
 
-- Solution URL: [FlexBlog](https://rachderossi.github.io/wildbeast/)
+- Solution URL: [Wildbeast](https://rachderossi.github.io/wildbeast/)
