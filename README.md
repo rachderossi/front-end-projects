@@ -279,7 +279,7 @@ My first big project using HTML, CSS and basic JavaScript. I built the entire wi
 
 # FlexBlog
 
-My second project using HTML and CSS Flexbox . I built the entire wireframe using Adobe XD, but the project came from my front-end classes.
+My second project using HTML and CSS Flexbox. I built the entire wireframe using Adobe XD, but the project came from my front-end classes.
 
 ### Screenshot - Desktop preview
 
@@ -288,3 +288,15 @@ My second project using HTML and CSS Flexbox . I built the entire wireframe usin
 ### Links
 
 - Solution URL: [FlexBlog](https://rachderossi.github.io/flexblog/)
+
+# Wildbeast
+
+My third project using HTML and CSS Grid Layout. 
+
+### Screenshot - Desktop preview
+
+<img  src= "https://github.com/rachderossi/front-end-projects/blob/main/wildbeast/Screenshot_1.png">
+
+### Links
+
+- Solution URL: [FlexBlog](https://rachderossi.github.io/wildbeast/)
