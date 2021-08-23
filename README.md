@@ -276,3 +276,15 @@ My first big project using HTML, CSS and basic JavaScript. I built the entire wi
 ### Links
 
 - Solution URL: [Bikcraft](https://rachderossi.github.io/bikcraft/)
+
+# FlexBlog
+
+My second project using HTML and CSS Flexbox . I built the entire wireframe using Adobe XD, but the project came from my front-end classes.
+
+### Screenshot - Desktop preview
+
+<img  src= "https://github.com/rachderossi/front-end-projects/blob/main/flexblog/Screenshot_1.png">
+
+### Links
+
+- Solution URL: [Bikcraft](https://rachderossi.github.io/flexblog/)
