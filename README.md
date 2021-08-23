@@ -222,11 +222,11 @@ Users should be able to:
 
 ### Screenshot - Desktop preview
 
-<img  src= "https://github.com/rachderossi/front-end-mentor/blob/main/single-price-grid-component/Screenshot_1.png">
+<img  src= "https://github.com/rachderossi/front-end-mentor/blob/main/single-price-grid/Screenshot_1.png">
 
 ### Links
 
-- Solution URL: [4 card feature section](https://rachderossi.github.io/single-price-grid-component/)
+- Solution URL: [4 card feature section](https://rachderossi.github.io/single-price-grid/)
 
 ## My process
 
