@@ -89,7 +89,7 @@ Users should be able to:
 
 ### Links
 
--Live Site URL: [3 column preview card](https://rachderossi.github.io/3-column-preview-card/)
+- Live Site URL: [3 column preview card](https://rachderossi.github.io/3-column-preview-card/)
 
 ## My process
 
