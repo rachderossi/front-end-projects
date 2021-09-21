@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Stats preview card](https://rachderossi.github.io/stats-preview-card/)
+- Live Site URL: [Stats preview card](https://rachderossi.github.io/stats-preview-card/)
 
 ## My process
 
@@ -89,7 +89,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [3 column preview card](https://rachderossi.github.io/3-column-preview-card/)
+-Live Site URL: [3 column preview card](https://rachderossi.github.io/3-column-preview-card/)
 
 ## My process
 
@@ -155,7 +155,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [4 card feature section](https://rachderossi.github.io/4-card-feature-section/)
+- Live Site URL: [4 card feature section](https://rachderossi.github.io/4-card-feature-section/)
 
 ## My process
 
@@ -226,7 +226,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Single price grid](https://rachderossi.github.io/single-price-grid/)
+- Live Site URL: [Single price grid](https://rachderossi.github.io/single-price-grid/)
 
 ## My process
 
@@ -275,7 +275,7 @@ My first big project using HTML, CSS and basic JavaScript. I built the entire wi
 
 ### Links
 
-- Solution URL: [Bikcraft](https://rachderossi.github.io/bikcraft/)
+- Live Site URL: [Bikcraft](https://rachderossi.github.io/bikcraft/)
 
 # FlexBlog
 
@@ -287,7 +287,7 @@ My second project using HTML and CSS Flexbox. I built the entire wireframe using
 
 ### Links
 
-- Solution URL: [FlexBlog](https://rachderossi.github.io/flexblog/)
+- Live Site URL: [FlexBlog](https://rachderossi.github.io/flexblog/)
 
 # Wildbeast
 
@@ -299,4 +299,4 @@ My third project using HTML and CSS Grid Layout.
 
 ### Links
 
-- Solution URL: [Wildbeast](https://rachderossi.github.io/wildbeast/)
+- Live Site URL: [Wildbeast](https://rachderossi.github.io/wildbeast/)
