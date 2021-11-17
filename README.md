@@ -436,3 +436,14 @@ function EmailValidation(){
         return false;
     }
 ```
+# Animais Fantásticos
+
+My forth project using HTML, CSS Grid Layout and JavaScript. 
+
+### Screenshot - Desktop preview
+
+<img  src= "https://github.com/rachderossi/front-end-projects/blob/main//Screenshot_1.png">
+
+### Links
+
+- Live Site URL: [Wildbeast](https://rachderossi.github.io/wildbeast/)
