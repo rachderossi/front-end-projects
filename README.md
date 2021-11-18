@@ -447,3 +447,15 @@ My fourth project using HTML, CSS Grid Layout and JavaScript.
 ### Links
 
 - Live Site URL: [Animais Fantásticos](https://rachderossi.github.io/animais-fantasticos/)
+
+# Projeto Slide
+
+Little project using JavaScript. 
+
+### Screenshot - Desktop preview
+
+<img  src= "https://github.com/rachderossi/projeto-slide/blob/main//Screenshot_1.png">
+
+### Links
+
+- Live Site URL: [Projeto Slide](https://rachderossi.github.io/slide/)
