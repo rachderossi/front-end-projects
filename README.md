@@ -454,7 +454,7 @@ Little project using JavaScript.
 
 ### Screenshot - Desktop preview
 
-<img  src= "https://github.com/rachderossi/projeto-slide/blob/main//Screenshot_1.png">
+<img  src= "https://github.com/rachderossi/front-end-projects/blob/main/projeto-slide/Screenshot_1.png">
 
 ### Links
 
