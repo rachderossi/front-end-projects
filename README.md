@@ -265,42 +265,6 @@ Users should be able to:
   order: -3;
 }
 ```
-# Bikcraft
-
-My first big project using HTML, CSS and basic JavaScript. I built the entire wireframe using Adobe XD, but the project came from my front-end classes.
-
-### Screenshot - Desktop preview
-
-<img  src= "https://github.com/rachderossi/front-end-projects/blob/main/bikcraft/Screenshot_1.png">
-
-### Links
-
-- Live Site URL: [Bikcraft](https://rachderossi.github.io/bikcraft/)
-
-# FlexBlog
-
-My second project using HTML and CSS Flexbox. I built the entire wireframe using Adobe XD, but the project came from my front-end classes.
-
-### Screenshot - Desktop preview
-
-<img  src= "https://github.com/rachderossi/front-end-projects/blob/main/flexblog/Screenshot_1.png">
-
-### Links
-
-- Live Site URL: [FlexBlog](https://rachderossi.github.io/flexblog/)
-
-# Wildbeast
-
-My third project using HTML and CSS Grid Layout. 
-
-### Screenshot - Desktop preview
-
-<img  src= "https://github.com/rachderossi/front-end-projects/blob/main/wildbeast/Screenshot_1.png">
-
-### Links
-
-- Live Site URL: [Wildbeast](https://rachderossi.github.io/wildbeast/)
-
 # Huddle landing page with single introductory section solution
 
 This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
@@ -436,6 +400,42 @@ function EmailValidation(){
         return false;
     }
 ```
+# Bikcraft
+
+My first big project using HTML, CSS and basic JavaScript. I built the entire wireframe using Adobe XD, but the project came from my front-end classes.
+
+### Screenshot - Desktop preview
+
+<img  src= "https://github.com/rachderossi/front-end-projects/blob/main/bikcraft/Screenshot_1.png">
+
+### Links
+
+- Live Site URL: [Bikcraft](https://rachderossi.github.io/bikcraft/)
+
+# FlexBlog
+
+My second project using HTML and CSS Flexbox. I built the entire wireframe using Adobe XD, but the project came from my front-end classes.
+
+### Screenshot - Desktop preview
+
+<img  src= "https://github.com/rachderossi/front-end-projects/blob/main/flexblog/Screenshot_1.png">
+
+### Links
+
+- Live Site URL: [FlexBlog](https://rachderossi.github.io/flexblog/)
+
+# Wildbeast
+
+My third project using HTML and CSS Grid Layout. 
+
+### Screenshot - Desktop preview
+
+<img  src= "https://github.com/rachderossi/front-end-projects/blob/main/wildbeast/Screenshot_1.png">
+
+### Links
+
+- Live Site URL: [Wildbeast](https://rachderossi.github.io/wildbeast/)
+
 # Animais Fantásticos
 
 My fourth project using HTML, CSS Grid Layout and JavaScript. 
