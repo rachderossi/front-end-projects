@@ -438,12 +438,12 @@ function EmailValidation(){
 ```
 # Animais Fantásticos
 
-My forth project using HTML, CSS Grid Layout and JavaScript. 
+My fourth project using HTML, CSS Grid Layout and JavaScript. 
 
 ### Screenshot - Desktop preview
 
-<img  src= "https://github.com/rachderossi/front-end-projects/blob/main//Screenshot_1.png">
+<img  src= "https://github.com/rachderossi/animais-fantasticos/blob/main//Screenshot_1.png">
 
 ### Links
 
-- Live Site URL: [Wildbeast](https://rachderossi.github.io/wildbeast/)
+- Live Site URL: [Animais Fantásticos](https://rachderossi.github.io/animais-fantasticos/)
