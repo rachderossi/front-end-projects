@@ -400,54 +400,6 @@ function EmailValidation(){
         return false;
     }
 ```
-# Bikcraft
-
-My first big project using HTML, CSS and basic JavaScript. I built the entire wireframe using Adobe XD, but the project came from my front-end classes.
-
-### Screenshot - Desktop preview
-
-<img  src= "https://github.com/rachderossi/front-end-projects/blob/main/bikcraft/Screenshot_1.png">
-
-### Links
-
-- Live Site URL: [Bikcraft](https://rachderossi.github.io/bikcraft/)
-
-# FlexBlog
-
-My second project using HTML and CSS Flexbox. I built the entire wireframe using Adobe XD, but the project came from my front-end classes.
-
-### Screenshot - Desktop preview
-
-<img  src= "https://github.com/rachderossi/front-end-projects/blob/main/flexblog/Screenshot_1.png">
-
-### Links
-
-- Live Site URL: [FlexBlog](https://rachderossi.github.io/flexblog/)
-
-# Wildbeast
-
-My third project using HTML and CSS Grid Layout. 
-
-### Screenshot - Desktop preview
-
-<img  src= "https://github.com/rachderossi/front-end-projects/blob/main/wildbeast/Screenshot_1.png">
-
-### Links
-
-- Live Site URL: [Wildbeast](https://rachderossi.github.io/wildbeast/)
-
-# Animais Fantásticos
-
-My fourth project using HTML, CSS Grid Layout and JavaScript. 
-
-### Screenshot - Desktop preview
-
-<img  src= "https://github.com/rachderossi/animais-fantasticos/blob/main//Screenshot_1.png">
-
-### Links
-
-- Live Site URL: [Animais Fantásticos](https://rachderossi.github.io/animais-fantasticos/)
-
 # Projeto Slide
 
 Little project using JavaScript. 
