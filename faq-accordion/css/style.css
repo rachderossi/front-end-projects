@@ -1,0 +1,147 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap");
+
+body {
+  background-image: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 800px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.box,
+.woman {
+  display: block;
+  position: absolute;
+  line-height: 100px;
+}
+
+.box {
+  left: 20px;
+  bottom: 580px;
+  z-index: 1;
+}
+
+.woman {
+  left: 20px;
+  top: 10px;
+  z-index: 0;
+}
+
+.card {
+  margin: 0 auto; /* centraliza o card */
+  margin-top: 250px;
+  max-height: 960px;
+  max-width: 1020px;
+}
+
+.card-cover {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  color: hsl(238, 29%, 16%);
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 0px 10px 13px -7px hsl(220, 21%, 33%);
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+h1 {
+  font-family: "Kumbh Sans";
+  color: hsl(238, 29%, 16%);
+  margin: auto;
+  margin-top: 50px;
+}
+
+.faq-lista dt {
+  font-family: "Kumbh Sans";
+  font-size: 14px;
+  color: hsl(237, 12%, 33%);
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.faq-lista dt:hover {
+  color: hsl(14, 88%, 65%);
+}
+
+.faq-lista dd {
+  font-family: "Kumbh Sans";
+  font-size: 12px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+hr.solid {
+  border-top: 1px solid hsl(240, 5%, 91%);
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+@keyframes show-right {
+  from {
+    opacity: 0;
+    transform: translate3d(-30px, 0, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes show-down {
+  from {
+    opacity: 0;
+    transform: translate3d(0, -30px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+[data-anime="accordion"] dd {
+  display: none;
+}
+
+[data-anime="accordion"] dt::after {
+  content: "";
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+  background: url(..//img/icon-arrow-down.svg) no-repeat;
+  margin-left: 10px;
+  transition: transform 0.3s;
+}
+
+[data-anime="accordion"] dt.ativo::after {
+  content: "";
+  transform: rotate(-180deg);
+}
+
+[data-anime="accordion"] dd.ativo {
+  display: block;
+  animation: slideDown 0.5s forwards;
+}
+
+[data-anime="accordion"] dt.ativo {
+  font-weight: bold;
+  color: hsl(238, 29%, 16%);
+}
+
+@media screen and (min-width: 600px) {
+  body {
+    overflow: hidden;
+    height: 1440px;
+  }
+
+  h1 {
+    margin-top: 180px;
+  }
+}
