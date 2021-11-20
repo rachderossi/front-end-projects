@@ -1,4 +1,4 @@
-# Stats preview card component solution
+# Stats preview card 
 
 This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -60,7 +60,7 @@ Users should be able to:
   border-radius: 5px;
 }
 ```
-# 3 column preview card component solution
+# 3 column preview card 
 
 This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -197,7 +197,7 @@ Users should be able to:
 }
 ```
 
-# Single price grid component solution
+# Single price grid 
 
 This is a solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -265,7 +265,7 @@ Users should be able to:
   order: -3;
 }
 ```
-# Huddle landing page with single introductory section solution
+# Huddle landing page 
 
 This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -316,7 +316,7 @@ body {
   height: 100vh;
 }
 ```
-# Ping coming soon page solution
+# Ping coming soon 
 
 This is a solution to the [Ping coming soon page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
