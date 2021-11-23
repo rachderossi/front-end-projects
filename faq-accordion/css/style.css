@@ -11,25 +11,6 @@ body {
   box-sizing: border-box;
 }
 
-.box,
-.woman {
-  display: block;
-  position: absolute;
-  line-height: 100px;
-}
-
-.box {
-  left: 20px;
-  bottom: 580px;
-  z-index: 1;
-}
-
-.woman {
-  left: 20px;
-  top: 10px;
-  z-index: 0;
-}
-
 .card {
   margin: 0 auto; /* centraliza o card */
   margin-top: 250px;
